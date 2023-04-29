@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'HelathcareAPPid'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_390633EA600C4C149C14F392440D22CA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A7C3B32499FD4237A71D02BBA54562FA }}
           package: .
